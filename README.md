@@ -1,4 +1,4 @@
-<!--MYCC-PORTFOLIO-META:%7B%22v%22%3A3%2C%22github%22%3A%22mjbardales%22%2C%22name%22%3A%22Mynor%20Bardales%22%2C%22email%22%3A%22Mynor.Bardales%40outlook.com%22%2C%22linkedin%22%3A%22%22%2C%22resume%22%3A%22%22%2C%22bio%22%3A%22Motivated%20aspiring%20IT%20professional%20with%20a%20strong%20interest%20in%20technology%2C%20troubleshooting%2C%20and%20continuous%20learning.%20Building%20practical%20skills%20through%20hands-on%20projects%20and%20exploring%20areas%20such%20as%20systems%20administration%2C%20networking%2C%20cybersecurity%20and%20software%20development.%20I%20use%20GitHub%20to%20document%20my%20work%2C%20share%20projects%2C%20and%20grow%20as%20a%20technologist.%22%2C%22themeIdx%22%3A0%2C%22skills%22%3A%5B%5D%2C%22headlines%22%3A%5B%5D%2C%22customHeadlines%22%3A%5B%5D%2C%22customSkills%22%3A%5B%5D%2C%22certs%22%3A%5B%5D%2C%22customLabs%22%3A%7B%221%22%3A%5B%5D%2C%222%22%3A%5B%5D%2C%223%22%3A%5B%5D%2C%224%22%3A%5B%5D%2C%225%22%3A%5B%5D%2C%226%22%3A%5B%5D%7D%7D-->
+<!--MYCC-PORTFOLIO-META:%7B%22v%22%3A3%2C%22github%22%3A%22mjbardales%22%2C%22name%22%3A%22Mynor%20Bardales%22%2C%22email%22%3A%22Mynor.Bardales%40outlook.com%22%2C%22linkedin%22%3A%22%22%2C%22resume%22%3A%22%22%2C%22bio%22%3A%22Motivated%20aspiring%20IT%20professional%20with%20a%20strong%20interest%20in%20technology%2C%20troubleshooting%2C%20and%20continuous%20learning.%20Building%20practical%20skills%20through%20hands-on%20projects%20and%20exploring%20areas%20such%20as%20systems%20administration%2C%20networking%2C%20cybersecurity%20and%20software%20development.%20I%20use%20GitHub%20to%20document%20my%20work%2C%20share%20projects%2C%20and%20grow%20as%20a%20technologist.%22%2C%22themeIdx%22%3A0%2C%22skills%22%3A%5B%5D%2C%22headlines%22%3A%5B%5D%2C%22customHeadlines%22%3A%5B%5D%2C%22customSkills%22%3A%5B%5D%2C%22certs%22%3A%5B%5D%2C%22customLabs%22%3A%7B%221%22%3A%5B%7B%22name%22%3A%22Course%20Certificate%22%2C%22desc%22%3A%22%22%2C%22link%22%3A%22https%3A%2F%2F1drv.ms%2Fb%2Fc%2F867A0F7386D85660%2FIQA-5bMxbpJnQpP4I5vdpxpaAS47B-7wlSceFIT6KJqn1Bw%3Fe%3Dve1A4c%22%2C%22status%22%3A%22pending%22%7D%5D%2C%222%22%3A%5B%5D%2C%223%22%3A%5B%5D%2C%224%22%3A%5B%5D%2C%225%22%3A%5B%5D%2C%226%22%3A%5B%5D%7D%7D-->
 
 <div align="center">
 
@@ -33,7 +33,9 @@ Motivated aspiring IT professional with a strong interest in technology, trouble
 <details>
 <summary><strong>Course 1: Networking I</strong></summary>
 
-*No labs added yet.*
+| Lab / Project | Description | Status | Link |
+|---|---|---|---|
+| Course Certificate | — | ⏳ Pending | [Open](https://1drv.ms/b/c/867A0F7386D85660/IQA-5bMxbpJnQpP4I5vdpxpaAS47B-7wlSceFIT6KJqn1Bw?e=ve1A4c) |
 
 </details>
 
